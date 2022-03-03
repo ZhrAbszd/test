@@ -1,0 +1,31 @@
+body {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.App {
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+}
+.counter-btn {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 30vw;
+
+}
+.btn{
+  padding:8px 15px;
+  color: white;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(253, 131, 145);
+  outline-style: none;
+  border-radius: 5px;
+  border: 4px solid pink;
+}
